@@ -1,0 +1,24 @@
+{
+  "name": "neural-architect-landing",
+  "version": "1.0.0",
+  "description": "Landing page for Neural Architect project, showcasing features and technical details.",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server .",
+    "build": "echo 'Build step not defined'",
+    "deploy": "echo 'Deploy step not defined'"
+  },
+  "keywords": [
+    "neural",
+    "architect",
+    "landing",
+    "page",
+    "edtech"
+  ],
+  "author": "Jose",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
